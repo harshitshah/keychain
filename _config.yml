@@ -5,3 +5,5 @@ github_username: harshitshah
 
 markdown: kramdown
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
